@@ -13,3 +13,12 @@ p {
     color: black;
     font-size:70px;
 }
+
+.normal-para{
+    color:chartreuse;
+
+}
+
+#fav-para {
+    color:purple;
+}
